@@ -36,6 +36,8 @@
 
 #### [[리스트(List) ADT]]
 
+#### [[스택(Stack) ADT]]
+
 ### 비선형 자료구조(Non-Linear Data Structure)
 
 ![[Pasted image 20251107185629.png]]
